@@ -1,2 +1,2 @@
 # Simpletest.github.io
-A website created by a student.
+A student learning how to use github
